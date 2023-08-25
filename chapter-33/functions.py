@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 def scalar_gaussian(x, mean, variance):
     return (1/np.sqrt(2*np.pi*variance))*np.exp(-(x-mean)**2/(2*variance))
 
