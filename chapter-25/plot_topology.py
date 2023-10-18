@@ -71,5 +71,7 @@ def plot_topology(Adjacency, Coordinates, Color):
     for k in range(N):
         plt.text(x_coordinates[k] + 0.03, y_coordinates[k] + 0.03, str(k + 1), fontsize=7)
 
+    plt.savefig("figs/fog-7.pdf", format="pdf", bbox_inches="tight")
+
     plt.show()
 
