@@ -34,35 +34,37 @@ This content should by no means be shared or published without the authorization
 
 ### 1. Download the repository
 
-There are two ways for downloading the content of this repository. The first way is directly by the **GitHub**. Just click in the **<> Code** green button in the top of this page and then click in **Download zip** buttom. With this, you can unzip the downloaded folder and access all the content of this repository.
+There are two ways for downloading the content of this repository. The first way is directly by the **GitHub**. Just click in the **<> Code** green button in the top of this page and then click in **Download zip** buttom. With this, you can unzip the downloaded folder in your desired installation path and access all the content of this repository.
 
 The other way is directly with the command line. For this, you will need to have **Git** installed in your machine, for this you can check <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>. After that, you can run this command line in your terminal:
 
 `git clone https://github.com/asl-epfl/E3-python-code-2023.git`
 
-With this command all the content of this repository will be downloaded in your machine. To access it in your terminal you can run:
+With this command all the content of this repository will be downloaded in your machine.
 
-`cd E3-python-code-2023`
+To access the folder in your terminal you can run:
+
+`cd installation_path/E3-python-code-2023`
 
 ### 2. Install Python
 
-First of all, we need to install python in our machine. To check if you already have python installed just run this command in your terminal:
+First, you need to install python in your machine. To check if you already have python installed just run this command in your terminal:
 
 `python --version`
 
 If you get a message like this:
 
-`Python 3.11.3` (these numbers are just the python version that is installed in your machine).
+`Python 3.11.3` (the numbers indicate the python version that is installed in your machine).
 
-If you get an error message, it means that you don't have python installed in your machine. For installing it, just get it from <https://www.python.org/downloads/>.
+If you get an error message, it means that you don't have python installed in your machine. In this case, download and install python from <https://www.python.org/downloads/>.
 
 ### 3. Install Python Packages
 
-In Python, we inevitably will use tons of packages as: numpy, matplotlib, pickle, pytorch, etc. We already listed all the packages that will be needed to run all the chapters notebooks. For installing them just run this command in your terminal:
+For the code in this repository to run, we will use some additional libraries such as: numpy, matplotlib, pickle, pytorch, etc. They are already listed in the file 'requirements.txt'. To instal them, run this command in your terminal:
 
 `pip install -r requirements.txt`
 
-This command line will install all packages listed in the file `requirements.txt`. In this file contains the version of each package too.
+This command line will install all packages listed in the file `requirements.txt`. In this file, we specify the version of each package too.
 
 ### 4. Jupyter Lab
 
