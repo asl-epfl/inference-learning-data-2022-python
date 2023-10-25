@@ -2,23 +2,23 @@
 
 ## 1. Install Python
 
-First of all, we need to install python in our machine. To check if you already have python installed just run this command in your terminal:
+First, you need to install python in your machine. To check if you already have python installed just run this command in your terminal:
 
 `python --version`
 
 If you get a message like this:
 
-`Python 3.11.3` (these numbers are just the python version that is installed in your machine).
+`Python 3.11.3` (the numbers indicate the python version that is installed in your machine).
 
-If you get an error message, it means that you don't have python installed in your machine. For installing it, just get it from https://www.python.org/downloads/.
+If you get an error message, it means that you don't have python installed in your machine. In this case, download and install python from https://www.python.org/downloads/.
 
 ## 2. Install Python Packages
 
-In Python, we inevitably will use tons of packages as: numpy, matplotlib, pickle, pytorch, etc. We already listed all the packages that will be needed to run all the chapters notebooks. For installing them just run this command in your terminal:
+For the code in this repository to run, we will use some additional libraries such as: numpy, matplotlib, pickle, pytorch, etc. They are already listed in the file 'requirements.txt'. To instal them, run this command in your terminal:
 
 `pip install -r requirements.txt`
 
-This command line will install all packages listed in the file `requirements.txt`. In this file contains the version of each package too.
+This command line will install all packages listed in the file `requirements.txt`. In this file, we specify the version of each package too.
 
 ## 3. Jupyter Lab
 
