@@ -14,7 +14,7 @@ If you get an error message, it means that you don't have python installed in yo
 
 ## 2. Install Python Packages
 
-For the code in this repository to run, we will use some additional libraries such as: numpy, matplotlib, pickle, pytorch, etc. They are already listed in the file 'requirements.txt'. To instal them, run this command in your terminal:
+For the code in this repository to run, we will use some additional libraries such as: numpy, matplotlib, pickle, pytorch, etc. They are already listed in the file `requirements.txt`. To instal them, run this command in your terminal:
 
 `pip install -r requirements.txt`
 
