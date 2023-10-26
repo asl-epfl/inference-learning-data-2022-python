@@ -1,10 +1,10 @@
 # Inference and Learning from Data: Python Code
 
-This repository should contain the code and generated figures relative to the simulation examples presented in the following books:
+This repository contains code relative to simulations and figures from the following reference:
 
-- *A. H. Sayed, Inference and Learning from Data, Vol. 1. Cambridge University Press, 2022.*
-- *A. H. Sayed, Inference and Learning from Data, Vol. 2. Cambridge University Press, 2022.*
-- *A. H. Sayed, Inference and Learning from Data, Vol. 3. Cambridge University Press, 2022.*
+- A. H. Sayed, *Inference and Learning from Data*, Vol. 1. Cambridge University Press, 2022.
+- A. H. Sayed, *Inference and Learning from Data*, Vol. 2. Cambridge University Press, 2022.
+- A. H. Sayed, *Inference and Learning from Data*, Vol. 3. Cambridge University Press, 2022.
 
 The folder structure for each chapter is similar to:
 
@@ -26,15 +26,13 @@ chapter-03
 
 ```
 
-Where each chapter contains the main code in the form of a notebook, auxiliary function in the form of .py files, and dedicated folders `data` and `figs`, which collect the necessary data to run the code and the generated figures respectively.
-
-This content should by no means be shared or published without the authorization of Prof. Ali H. Sayed.
+where each chapter contains the main code in the form of a notebook, auxiliary functions in the form of .py files, and dedicated folders `data` and `figs`, which collect the necessary data to run the code and the generated figures respectively.
 
 ## Tutorial to run the python notebooks
 
 ### 1. Download the repository
 
-There are two ways for downloading the content of this repository. The first way is directly by the **GitHub**. Just click in the **<> Code** green button in the top of this page and then click in **Download zip** buttom. With this, you can unzip the downloaded folder in your desired installation path and access all the content of this repository.
+There are two ways to download the content of this repository. The first one is directly by  **GitHub**. Just click in the **<> Code** green button in the top of this page and then click in **Download zip** buttom. You can unzip the downloaded folder in your desired installation path and access all the content of this repository.
 
 The other way is directly with the command line. For this, you will need to have **Git** installed in your machine, for this you can check <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>. After that, you can run this command line in your terminal:
 
