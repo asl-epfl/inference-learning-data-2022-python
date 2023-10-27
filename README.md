@@ -95,14 +95,8 @@ This statement is applicable to all code/software provided with the text listed 
 
 ``The computer codes are provided "as is" without any guarantees. Practitioners should use them at their own risk. While the codes in the text are useful for instructional purposes, they are not intended to serve as examples of full-blown or optimized designs. The author has made no attempt at optimizing the codes, perfecting them, or even checking them for absolute accuracy. In order to keep the codes at a level that is easy to follow by students, the author has often chosen to sacrifice performance or even programming elegance in lieu of simplicity. Students can use the computer codes to run variations of the examples shown in the text.``
 
-MIT License
-
+MIT License (see LICENSE file)
 Copyright (c) 2022. A. H. Sayed, Inference and Learning from Data, Cambridge University Press, vols. I, II, and III, 2022.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Simulation Datasets
 In several examples in the work by A. H. Sayed, Inference and Learning from Data, Cambridge University Press, 2022, the simulations rely on publicly available datasets. The sources for these datasets are acknowledged in the appropriate locations in the text. Here we provide an aggregate summary for ease of reference:
