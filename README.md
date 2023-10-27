@@ -79,21 +79,21 @@ After doing all these steps you will be able to run all the python notebooks fro
 ## Library Versions
 
 All notebooks can be executed under the following library versions:
-> - **numpy** 1.25.2.
-> - **opencv-python** 4.8.0.76
-> - **pandas** 2.1.1
-> - **scikit-learn** 1.3.0
-> - **scipy** 1.11.1
-> - **torch** 2.1.0
-> - **torchvision** 0.16.0
-> - **tqdm** 4.66.1
-> - **matplotlib** 3.7.2
+- **numpy** 1.25.2.
+- **opencv-python** 4.8.0.76
+- **pandas** 2.1.1
+- **scikit-learn** 1.3.0
+- **scipy** 1.11.1
+- **torch** 2.1.0
+- **torchvision** 0.16.0
+- **tqdm** 4.66.1
+- **matplotlib** 3.7.2
 
 
 ## Disclaimer 
 This statement is applicable to all code/software provided with the text listed above, including the code used to prepare data and generate figures and numerical results for all chapters.
 
-``The computer codes are provided "as is" without any guarantees. Practitioners should use them at their own risk. While the codes in the text are useful for instructional purposes, they are not intended to serve as examples of full-blown or optimized designs. The author has made no attempt at optimizing the codes, perfecting them, or even checking them for absolute accuracy. In order to keep the codes at a level that is easy to follow by students, the author has often chosen to sacrifice performance or even programming elegance in lieu of simplicity. Students can use the computer codes to run variations of the examples shown in the text.``
+> The computer codes are provided "as is" without any guarantees. Practitioners should use them at their own risk. While the codes in the text are useful for instructional purposes, they are not intended to serve as examples of full-blown or optimized designs. The author has made no attempt at optimizing the codes, perfecting them, or even checking them for absolute accuracy. In order to keep the codes at a level that is easy to follow by students, the author has often chosen to sacrifice performance or even programming elegance in lieu of simplicity. Students can use the computer codes to run variations of the examples shown in the text.
 
 MIT License (see LICENSE file)
 
