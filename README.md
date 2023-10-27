@@ -96,6 +96,7 @@ This statement is applicable to all code/software provided with the text listed 
 ``The computer codes are provided "as is" without any guarantees. Practitioners should use them at their own risk. While the codes in the text are useful for instructional purposes, they are not intended to serve as examples of full-blown or optimized designs. The author has made no attempt at optimizing the codes, perfecting them, or even checking them for absolute accuracy. In order to keep the codes at a level that is easy to follow by students, the author has often chosen to sacrifice performance or even programming elegance in lieu of simplicity. Students can use the computer codes to run variations of the examples shown in the text.``
 
 MIT License (see LICENSE file)
+
 Copyright (c) 2022. A. H. Sayed, Inference and Learning from Data, Cambridge University Press, vols. I, II, and III, 2022.
 
 ## Simulation Datasets
