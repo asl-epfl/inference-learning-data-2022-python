@@ -76,6 +76,20 @@ After doing this, Jupyter Lab will open in your browser.
 
 After doing all these steps you will be able to run all the python notebooks from all the chapters. 
 
+## Library Versions
+
+All notebooks can be executed under the following library versions:
+> - **numpy** 1.25.2.
+> - **opencv-python** 4.8.0.76
+> - **pandas** 2.1.1
+> - **scikit-learn** 1.3.0
+> - **scipy** 1.11.1
+> - **torch** 2.1.0
+> - **torchvision** 0.16.0
+> - **tqdm** 4.66.1
+> - **matplotlib** 3.7.2
+
+
 ## Disclaimer 
 This statement is applicable to all code/software provided with the text listed above, including the code used to prepare data and generate figures and numerical results for all chapters.
 
