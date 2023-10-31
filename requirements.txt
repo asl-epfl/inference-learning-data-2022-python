@@ -9,3 +9,4 @@ tqdm==4.66.1
 jupyterlab
 matplotlib
 numba
+networkx
