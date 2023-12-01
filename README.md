@@ -1,4 +1,4 @@
-# Inference and Learning from Data: Python Code
+# _Inference and Learning from Data_, Cambridge University Press, 2022: Python Code
 
 This repository contains code relative to simulations and figures from the following reference:
 
