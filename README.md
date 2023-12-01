@@ -32,17 +32,17 @@ where each chapter contains the main code in the form of a notebook, auxiliary f
 
 ### 1. Download the repository
 
-There are two ways to download the content of this repository. The first one is directly by  **GitHub**. Just click in the **<> Code** green button in the top of this page and then click in **Download zip** buttom. You can unzip the downloaded folder in your desired installation path and access all the content of this repository.
+There are two ways to download the content of this repository. The first one is directly on  **GitHub**. Just click on the **<> Code** green button in the top of this page and then click on **Download zip** buttom. You can unzip the downloaded folder in your desired installation path and access all the content of this repository.
 
-The other way is directly with the command line. For this, you will need to have **Git** installed in your machine, for this you can check <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>. After that, you can run this command line in your terminal:
+The other way is using the command line. For this, you will need to have **Git** installed in your machine, for this you can check <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>. After that, you can run this command line in your terminal:
 
-`git clone https://github.com/asl-epfl/E3-python-code-2023.git`
+`git clone https://github.com/asl-epfl/inference-learning-data-2022-python.git`
 
 With this command all the content of this repository will be downloaded in your machine.
 
 To access the folder in your terminal you can run:
 
-`cd installation_path/E3-python-code-2023`
+`cd installation_path/inference-learning-data-2022-python`
 
 ### 2. Install Python
 
