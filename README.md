@@ -6,6 +6,8 @@ This repository contains code relative to simulations and figures from the follo
 - A. H. Sayed, *Inference and Learning from Data*, Vol. 2. Cambridge University Press, 2022.
 - A. H. Sayed, *Inference and Learning from Data*, Vol. 3. Cambridge University Press, 2022.
 
+The table of contents can be found [here](https://asl.epfl.ch/wp-content/uploads/2022/11/TOC-Sayed-Cambridge.pdf).
+
 The folder structure for each chapter is similar to:
 
 ``` bash
