@@ -12,7 +12,7 @@ The folder structure for each chapter is similar to:
 
 ``` bash
 
-chapter-03
+Chapter-03-Random-Variables
 │   chapter-03.ipynb
 │   functions.py
 │
